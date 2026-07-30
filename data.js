@@ -1,18 +1,37 @@
-// Agrega aquí tus imágenes de trabajos dentro de la carpeta ./galeria
-// Simplemente copia tus archivos (JPG/PNG) y añade objetos a este arreglo.
-// Ejemplo:
-// { src: 'galeria/trabajo1.jpg', titulo: 'Instalación eléctrica', desc: 'Tablero general y canalización' }
+// Contenido de datos para la galería y comparación Antes/Después.
+// Asegúrate de copiar todos los archivos JPG/PNG/WEBP que uses en la carpeta ./galeria.
 
 window.GALERIA_IMAGENES = [
-  { 
+  {
     titulo: 'Alumbrado y tubería conduit',
     src: 'galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura.jpg',
-    src_webp: 'galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura.webp'
-  },
+    src_webp: 'galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura.webp',
+    desc: 'Instalación de luminarias y canalización en taller de soldadura.'
+  }
 ];
 
-// Antes/Después
 window.ANTES_DESPUES = [
+  {
+    titulo: 'Remodelación baño: Frente',
+    antes: 'galeria/bano_frente_antes.jpeg',
+    antes_webp: 'galeria/bano_frente_antes.webp',
+    despues: 'galeria/bano_frente_despues.jpeg',
+    despues_webp: 'galeria/bano_frente_despues.webp'
+  },
+  {
+    titulo: 'Remodelación baño: Lateral',
+    antes: 'galeria/bano_lateral_antes.jpeg',
+    antes_webp: 'galeria/bano_lateral_antes.webp',
+    despues: 'galeria/bano_lateral_despues.jpeg',
+    despues_webp: 'galeria/bano_lateral_despues.webp'
+  },
+  {
+    titulo: 'Remodelación túnel de personal',
+    antes: 'galeria/tunel_antes.jpeg',
+    antes_webp: 'galeria/tunel_antes.webp',
+    despues: 'galeria/tunel_despues.jpeg',
+    despues_webp: 'galeria/tunel_despues.webp'
+  },
   {
     titulo: 'Fachada a jardín',
     antes: 'galeria/fachada-jardin-antes.jpg',
@@ -43,10 +62,10 @@ window.ANTES_DESPUES = [
   }
 ];
 
-// Videos (mp4)
 window.VIDEOS = [
   {
     titulo: 'Lambrín en palapa y exteriores (residencia)',
     src: 'galeria/lambrin-palapa-exteriores-residencia.mp4'
   }
 ];
+

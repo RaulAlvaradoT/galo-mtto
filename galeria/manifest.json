@@ -1,23 +1,213 @@
 {
+  "bano_frente_antes.jpeg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/bano_frente_antes-400.jpg",
+        "webp": "galeria/bano_frente_antes-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/bano_frente_antes-800.jpg",
+        "webp": "galeria/bano_frente_antes-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/bano_frente_antes-1200.jpg",
+        "webp": "galeria/bano_frente_antes-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQFBgMH/8QAJRAAAgIBBAAGAwAAAAAAAAAAAQIDBAAFERIhBhMUFjFBMlFh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhESQf/aAAwDAQACEQMRAD8AtklSe7NUdmj9Ow5lukJOWUtdI1fzFUqPvfPO45p/dFirfmaGv0ZFc/l+iM12u6rGtCNdPrm4w64rv1mcrnwuqdHSwJ1cKvFlA6P8xmfj1HVplDGi0R+OA+sYtDGT79WGx4vjMqBt4hvmwr04VgYKuwHxtjGJlkKZQkhVQNsYxiBH/9k="
+  },
+  "bano_frente_despues.jpeg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/bano_frente_despues-400.jpg",
+        "webp": "galeria/bano_frente_despues-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/bano_frente_despues-800.jpg",
+        "webp": "galeria/bano_frente_despues-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/bano_frente_despues-1200.jpg",
+        "webp": "galeria/bano_frente_despues-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAYEBQP/xAAmEAABBAEDAwQDAAAAAAAAAAABAAIDBAUGERIUISITIzFBQmFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AsbWWZ0rI5C1wcdhyP2s7NT0ulNR7owd+Jbvv3ULkdXVcfMIJ8W+7IfIODvELxl1aXSuFXTcDW7cg9wJ7rJdbL0a8l57wOxRTZzGRte9NVbE934M+AiUrYaNYTB3os3P6Wt8EQj2DAB/ERCcyWpFzPiUREp//2Q=="
+  },
+  "bano_lateral_antes.jpeg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/bano_lateral_antes-400.jpg",
+        "webp": "galeria/bano_lateral_antes-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/bano_lateral_antes-800.jpg",
+        "webp": "galeria/bano_lateral_antes-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/bano_lateral_antes-1200.jpg",
+        "webp": "galeria/bano_lateral_antes-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAQFBgP/xAAjEAABBAEEAQUAAAAAAAAAAAABAAIDBBEFEiExURMUIkFS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECIRETMUJS/9oADAMBAAIRAxEAPwCubojA/wBStJtb1wV1GhzaeRPTmBJdl0fYJ8kKvp6i72ULhk75OQrilJamtTiKMu+YxjwjVWIrRoasZfC0z6vBE/8AGzpFBu1bM1l7zWIz1wi0OeOoGt+iFWo12zR4jHK1em1oq+DEwAnsoiiPIhNmkcH8H6REWog//9k="
+  },
+  "bano_lateral_despues.jpeg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/bano_lateral_despues-400.jpg",
+        "webp": "galeria/bano_lateral_despues-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/bano_lateral_despues-800.jpg",
+        "webp": "galeria/bano_lateral_despues-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/bano_lateral_despues-1200.jpg",
+        "webp": "galeria/bano_lateral_despues-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQGBwII/8QAJBAAAgICAQMEAwAAAAAAAAAAAQMCBAAFEQYSIRRBQlFhcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ALOzpPURsMauya3uAJcAZztLNvsrQfsEbGkCFhUWCIH5OZxudw+zQu8zlzJRA85m2h1e9toT6WNkx88kyIGQejX9NVbDCw21I7vhAcgf3GVjSM2VTVoQ9bJMhHgnGBP1erqMTEsSJfvLGiqhChBSoQj9AcYxkEOzIxcQAABjGMD/2Q=="
+  },
+  "fachada-jardin-antes-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-antes-1200-400.jpg",
+        "webp": "galeria/fachada-jardin-antes-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-antes-1200-800.jpg",
+        "webp": "galeria/fachada-jardin-antes-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-antes-1200-1200.jpg",
+        "webp": "galeria/fachada-jardin-antes-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQMEB//EACQQAAEDAwQBBQAAAAAAAAAAAAEAAgMEESEFBhIiMRMjMkFh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAQACAQUBAAAAAAAAAAAAAAEAAhEDEhMhUjH/2gAMAwEAAhEDEQA/AGjb9Q+Fj52SgskAACthW8sveFznZ0tXSaBSwag/32jP4r59XZvyubLfW7V6UzMNqj9BjeaykjAErhytfyhJQmY/MjuyEOXU9MOynkiqa4iQ9r2Unai4i/PACpGONib5WNz3eg7J+0uI03JNemLzwjJAxdCXI5HWd2PkoU1ZTBP/2Q=="
+  },
+  "fachada-jardin-antes-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-antes-400-400.jpg",
+        "webp": "galeria/fachada-jardin-antes-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-antes-400-800.jpg",
+        "webp": "galeria/fachada-jardin-antes-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-antes-400-1200.jpg",
+        "webp": "galeria/fachada-jardin-antes-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwIH/8QAJRAAAQQBAgUFAAAAAAAAAAAAAQACAxEEBSEGEiIxMhMUQVFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHREAAgICAwEAAAAAAAAAAAAAAAECERJSAyExkf/aAAwDAQACEQMRAD8Ap+H8gxROyI5umUAAJsM2/N6864Qdk4GhY2NnyXOwb/ievy6b5b18rcpOL6dWYnFP1WV51DEjpspaXVfdCixPG4XIbchGfJs/o4w1RKe9IkPVa6dqJIsvOwSlizs+kd/tFCbP1zIc48jLaNrQkbCerc9yhTtlEkf/2Q=="
+  },
+  "fachada-jardin-antes-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-antes-800-400.jpg",
+        "webp": "galeria/fachada-jardin-antes-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-antes-800-800.jpg",
+        "webp": "galeria/fachada-jardin-antes-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-antes-800-1200.jpg",
+        "webp": "galeria/fachada-jardin-antes-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQMEB//EACQQAAIBBAICAQUAAAAAAAAAAAECAAMEESEFEgYiMRMjMkFh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAdEQEAAgEFAQAAAAAAAAAAAAABAAIRAxITIVIx/9oADAMBAAIRAxEAPwBq8fuHoo9wlUFKgAAlsL3tt3E5z4dWu7XgLWhyD/fUb/kvnu8L+WTH63avTjMStUfoMbzd2iACqw7Yz8wiUKyPuo2WhK5dT0ybKeSKpviKh9syTckxGe+gJSIx2c7mNnb6J2f3BxCm5U5+qXPSmSBrMIu03bDex+TCZqwwJ//Z"
+  },
   "fachada-jardin-antes.jpg": {
     "variants": [
       {
         "width": 400,
         "jpeg": "galeria/fachada-jardin-antes-400.jpg",
         "webp": "galeria/fachada-jardin-antes-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/fachada-jardin-antes-800.jpg",
-        "webp": "galeria/fachada-jardin-antes-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/fachada-jardin-antes-1200.jpg",
-        "webp": "galeria/fachada-jardin-antes-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQMEB//EACMQAAICAgEEAgMAAAAAAAAAAAECAAMEESEFBhIiIzEyQWH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHREAAgIBBQAAAAAAAAAAAAAAAAECEVIDEhMhMf/aAAwDAQACEQMRAD8AaO38h6UfIS0FLAABLYZpbl3E5z2dbl4nQMWjqD/Oo5/kvny9L+Wzqb4zcX06swyin6rG85mIgAtYeWt/cIlC5H5sb2hBy6mTDshihVOcRYfbepJupMRvz4AlIjHRO+ZjZ2FDcn9xaGNyzr1xc+FZIHG4RcrsbTex+zCTbZSkf//Z"
+  },
+  "fachada-jardin-despues-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-despues-1200-400.jpg",
+        "webp": "galeria/fachada-jardin-despues-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-despues-1200-800.jpg",
+        "webp": "galeria/fachada-jardin-despues-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-despues-1200-1200.jpg",
+        "webp": "galeria/fachada-jardin-despues-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAQQCAQIFBAMAAAAAAAAAAgEDBAUAESEGEhMUMUFRFSIjJDJxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAECAAME/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERIx/9oADAMBAAIRAxEAPwBynW9q11Q8wL6FGdFUBRHaMr8lnM5MupNYpeakA9Gc/kIoKSE36JlZDn18mwnTIZtfS3B1KNwlQtr8ZC/Nbi0QpNeYUe/deqOLr198jpiYvTVqKwdl1rTsxkozy8K2fr/eGKFZLtThgVqbHmF5TsXjt1xhjdBwTmrWD+5aJLYapD20kcmNaL2yajqZ59PynCchTUP74ZGHAf5jg/XQ3IHhORWSbVd9qimt5XdQJ5Ppx0Yv4hBNCg8awNICM2sOpbYJKtT3WSfbRALwuB4wxKcecOQ+RGqqri7VcMrNswsP/9k="
+  },
+  "fachada-jardin-despues-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-despues-400-400.jpg",
+        "webp": "galeria/fachada-jardin-despues-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-despues-400-800.jpg",
+        "webp": "galeria/fachada-jardin-despues-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-despues-400-1200.jpg",
+        "webp": "galeria/fachada-jardin-despues-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAnEAABBAIBAgYDAQAAAAAAAAABAgMEBQARIQYSExQiMUFRIzNxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAACAQME/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AK+bZWSOqZDbUtS4riCCU6IYP2cWdctpNV3OSpIcjubaWFBIkc+wzOh2UCTNmz4vhoq1J1KDiVBaifrF5E5iHRp828wtLi915SFEI5+cLonHWqKc+9WtLsWvLSNaLZOz/cMjax+zTDQbWUyuQobCk8Dt1xhjehxIIuoiRLulyls1a9tCKpj2OuDrGqComnp6U63MYlB8d8VTrf6/8ytlx2FVvaplsp37FI1mbe/h6bWGvQABrt41kWQRzGw6gtWpKmpstDz7XoUpA0OMMlHFKMh8kknxD84ZXW7OJyP/2Q=="
+  },
+  "fachada-jardin-despues-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-despues-800-400.jpg",
+        "webp": "galeria/fachada-jardin-despues-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-despues-800-800.jpg",
+        "webp": "galeria/fachada-jardin-despues-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-despues-800-1200.jpg",
+        "webp": "galeria/fachada-jardin-despues-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKBAAAQQBAwIFBQAAAAAAAAAAAQIDBAUABhEhEhQTMTJBUSIjJHGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIREjH/2gAMAwEAAhEDEQA/AHOdb2rWqHo6XwqM6ghBSncNH5VnM5NupNaVd1IQ9Gc9SUgCQPgZWw51fIsJ0uEto1bidpTi1kK3PxkL81uLRJE11jp6968hw7efvg6ZAPvLVqKwdl1rTsxlUZ48Ftzz/eGJ9ZMtXIaF2q2O4PI6Dx0+2GN6jknNWsEd5aCXHao17thhTOxCtuMmo6mevT8lxS4U0L+uGpSeEfzHCRWwnIHhORWVNE79JSNsrtQfh6cdTF+0lAASEcbZCEFm1hqa2bklqe6yZDYCFeF6eMMSXXnFyH1KWSouHcnDK7bnJy//2Q=="
   },
   "fachada-jardin-despues.jpg": {
     "variants": [
@@ -25,19 +215,69 @@
         "width": 400,
         "jpeg": "galeria/fachada-jardin-despues-400.jpg",
         "webp": "galeria/fachada-jardin-despues-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/fachada-jardin-despues-800.jpg",
-        "webp": "galeria/fachada-jardin-despues-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/fachada-jardin-despues-1200.jpg",
-        "webp": "galeria/fachada-jardin-despues-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKBAAAQQCAQIFBQEAAAAAAAAAAgEDBAUAESEGEhMUMUFRFSMkMnGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIREjH/2gAMAwEAAhEDEQA/AHOdb2rXVDzAvocZ0VQFEdoyvyWczky6k1il5qQL0Zz9hFBSQm/RMrYc+vk2E6ZDNr6W4OpRmSoW1+MgfmtxaIUmvMKKnuvVHF16++DpkA+2r0Vg7KrWnZjJRnl4Vs/X+4Yn1ky2OGBWhseYXlOxeO32wxvUck5q1g/l2iS2GqQ9tJHJjWi9smo6mefT8lwnIU1DTvhkYcB/mOD9dDcgeE5FZJtV32qKayu6gTyfTjoxftCCaFB41kIQWbWHUts3JVqc8yT7aIBeFwPGGJLrzhyHyI1UlcXarhldtzk5f//Z"
+  },
+  "fachada-jardin-proceso-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-proceso-1200-400.jpg",
+        "webp": "galeria/fachada-jardin-proceso-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-proceso-1200-800.jpg",
+        "webp": "galeria/fachada-jardin-proceso-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-proceso-1200-1200.jpg",
+        "webp": "galeria/fachada-jardin-proceso-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQMF/8QAJxAAAgEEAQIFBQAAAAAAAAAAAQIDAAQFERIGBxMhMUFhFBUiUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARESIf/aAAwDAQACEQMRAD8A2dn8xPhujbJoVDLKzMw478qp2E6uTI3gR4zHxHn+qkPazKxWVvjsdcDghtgwf5NUWa4syjPFKmx6kaFV9UwZLnLT+M3Ajj7aopee/K6EKq8eho0UtSNJng/oba9WK6RW8GJVHxTHdy4yewljt49SFTogml6OJPvt8eI3se1ddVC2jFQAdUCY6ezCjGIkrfnGSn8opIMjpNMFYgcz6UVlll//2Q=="
+  },
+  "fachada-jardin-proceso-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-proceso-400-400.jpg",
+        "webp": "galeria/fachada-jardin-proceso-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-proceso-400-800.jpg",
+        "webp": "galeria/fachada-jardin-proceso-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-proceso-400-1200.jpg",
+        "webp": "galeria/fachada-jardin-proceso-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgMF/8QAJRAAAQMDAwQDAQAAAAAAAAAAAQIDBAAFERIhMQYHEyIVQWEj/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAABEBEiH/2gAMAwEAAhEDEQA/AM+0N0lWro2CqMkqDhUpQCdW37VLsfVip0zQ8z4gkbnBAqR9r7ui3tW6BJToaMYKC+N6oz8+EtCltvI25ORVfVuGSTdJBdPjWNH1gUUvKnqOkx9CmyAQaK3rRibWR2HEnhmQ2lfhaSjBHFMUqVb5MF1phgBZScKA4pdZSn5yb6jkfVdhAAjqwMbUCaunrwlNsQ26r2bUUb/lFJ+SHnwCR/Q0VUpX/9k="
+  },
+  "fachada-jardin-proceso-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/fachada-jardin-proceso-800-400.jpg",
+        "webp": "galeria/fachada-jardin-proceso-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/fachada-jardin-proceso-800-800.jpg",
+        "webp": "galeria/fachada-jardin-proceso-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/fachada-jardin-proceso-800-1200.jpg",
+        "webp": "galeria/fachada-jardin-proceso-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAQQBAQgDAAAAAAAAAAABAgMABAUREgYHExQVITFBYSJRgf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/ANex7MT4bo2yaFQyyszMOO/SqdhOrkyN4EeMx8R6/qpD2V5WKyt8fjrgcF8OGD/ZqjTXFmVZ4pE2PcjQq3KrDJc5acTNwK8fiil178roQqrpoaO6KXVDE0wfgba9WK6RW7mJVH1THdy4yawljt49SlTogml2OJPPb48BvY+K66qFtGKgA6oGOnsuvlkaSt+cZKH+UUjmV0mmCMQOZ9qKzW8v/9k="
   },
   "fachada-jardin-proceso.jpg": {
     "variants": [
@@ -45,19 +285,69 @@
         "width": 400,
         "jpeg": "galeria/fachada-jardin-proceso-400.jpg",
         "webp": "galeria/fachada-jardin-proceso-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/fachada-jardin-proceso-800.jpg",
-        "webp": "galeria/fachada-jardin-proceso-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/fachada-jardin-proceso-1200.jpg",
-        "webp": "galeria/fachada-jardin-proceso-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQMF/8QAJxAAAgEEAQEIAwAAAAAAAAAAAQIDAAQFERIGBxMUFSExQVEiYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARESIf/aAAwDAQACEQMRAD8A2dj+Ynw3Rtk0KhllZmYcd+lU7CdXJkbwI8fd8R6/VSHssysVlb4/HXA4J4YMH/ZqizXFmUZ4pU2PcjQ3VfVMGS5y04mbgRx+NUUvPfldCFVePQ0d0UtSFJng/A216sV0it3MQUD6pku5cZPYSx28epCp0QTS7HEnnt8eI3sfFddVC2jFQAaBsdPZhRjESVvzjJQ/yikgyOk0wViBzPtRWWWX/9k="
+  },
+  "panel-termico-formular-antes-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/panel-termico-formular-antes-1200-400.jpg",
+        "webp": "galeria/panel-termico-formular-antes-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/panel-termico-formular-antes-1200-800.jpg",
+        "webp": "galeria/panel-termico-formular-antes-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/panel-termico-formular-antes-1200-1200.jpg",
+        "webp": "galeria/panel-termico-formular-antes-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBwgF/8QAKRAAAQQCAAMHBQAAAAAAAAAAAQACAwQFEQYHEhMUITFBc7E0NTZykf/EABgBAAIDAAAAAAAAAAAAAAAAAAUGAQME/8QAHhEAAQMFAQEAAAAAAAAAAAAAAAECEQMEEiFRBRP/2gAMAwEAAhEDEQA/AEKrhrtvZhrvLQNk6UTuzmvLXDRB0Vo3AXsc/FZGQw160bQ5sYcNEjSpuziw2+4RRyujkcXNdrYRe39D6VMX6QH1bTGnk3ai8yA9PkhNrMFOWgiF38Qiss6hhh3B85cx08tRc+9B2jywyDqPnr0Spj+M7M2XuMjpV46teTpawN3oApq5Wfa6fsv+FV+E+uzHvP8AlJ0DEaL4fmp5fFxXIIGBj/DRb6oXJ5X/AIhX/dyFXJJ//9k="
+  },
+  "panel-termico-formular-antes-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/panel-termico-formular-antes-400-400.jpg",
+        "webp": "galeria/panel-termico-formular-antes-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/panel-termico-formular-antes-400-800.jpg",
+        "webp": "galeria/panel-termico-formular-antes-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/panel-termico-formular-antes-400-1200.jpg",
+        "webp": "galeria/panel-termico-formular-antes-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBwgF/8QAKhAAAgEEAAIJBQAAAAAAAAAAAQIDAAQFEQchBhITFCIxQXOxNDU2cpH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgIDBP/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDEgQFURP/2gAMAwEAAhEDEQA/AEK2w17d7MMDlQNk6qJ3Zkcqw0QdGtG4C8xz4rIydhb20ahljDDmRqqbucYFv3ESSMkjEq2tii/H7D6ZNZqkDsvE1htF2xeSDw+VFNqYOcqCIX/lFFbh6jDUvB84dRWeWsWe+gMjlDINnkdelK2P6Zzy5e8SOxt47W3k6qoF3oA008Lfttp7L/FVdhPr8x7z/NJ1DEjRmAlssvi4ryCBAj8tEetFcvhj+I237NRVdkkj/9k="
+  },
+  "panel-termico-formular-antes-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/panel-termico-formular-antes-800-400.jpg",
+        "webp": "galeria/panel-termico-formular-antes-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/panel-termico-formular-antes-800-800.jpg",
+        "webp": "galeria/panel-termico-formular-antes-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/panel-termico-formular-antes-800-1200.jpg",
+        "webp": "galeria/panel-termico-formular-antes-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBwgF/8QAKRAAAQQCAAMHBQAAAAAAAAAAAgABAwQFEQcSEwYUITFBc7E0NTZykf/EABgBAAIDAAAAAAAAAAAAAAAAAAUGAQME/8QAHhEAAQMFAQEAAAAAAAAAAAAAAAECEQMEEiFRBRP/2gAMAwEAAhEDEQA/AESrhb1vbw1zcWbbu7KH3YgNxJvFn060bgL+PPFZGQoa9aMWIYxJtO7aVOWcXq+fSjlKOQncS1tkXt/Q+lTF+kB9W0xZk3ai6ED8vkhNwYKdxZ+gf8Qiss6hhh3B74cx1MrRI70HUNweRuZ/PXolXH9s7U2XuhHSrx1q8nKIMO9Mzpp4Wfa6fsn8Kr8J9bmPeP5SdAxGjOz81PL4uG5BADAfhpx9ULkcL/xCv+5IVckn/9k="
   },
   "panel-termico-formular-antes.jpg": {
     "variants": [
@@ -65,19 +355,69 @@
         "width": 400,
         "jpeg": "galeria/panel-termico-formular-antes-400.jpg",
         "webp": "galeria/panel-termico-formular-antes-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/panel-termico-formular-antes-800.jpg",
-        "webp": "galeria/panel-termico-formular-antes-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/panel-termico-formular-antes-1200.jpg",
-        "webp": "galeria/panel-termico-formular-antes-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBwgF/8QAKRAAAgICAQEFCQAAAAAAAAAAAQIDBAAFEQcSMUFzsQYTFCE0NTZykf/EABgBAAIDAAAAAAAAAAAAAAAAAAUGAgME/8QAHhEAAQQCAwEAAAAAAAAAAAAAAAECAxESIQQFURP/2gAMAwEAAhEDEQA/AEKrpbtvkw13KgckkZE+GZXKsOCDwc0boL2ufVbGQw160ahljDDgkcZTdnVhb7CKOVkkYsrccjC8HYfSTF+kB0vExjybtRdSA9nuwxuTRTlQRA38wwrbPUMVO8HzpzHU21FnvQe8coZB2j38eGKmv9s7M23uJHSrx1a8nZVAvPABxq6Wfa6fkv6ZV+k+u3HnP64nUMKGi9BNT2+riuQQIEf5cFfHDOT0v/Ea/wC7YZXZJD//2Q=="
+  },
+  "panel-termico-formular-despues-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/panel-termico-formular-despues-1200-400.jpg",
+        "webp": "galeria/panel-termico-formular-despues-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/panel-termico-formular-despues-1200-800.jpg",
+        "webp": "galeria/panel-termico-formular-despues-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/panel-termico-formular-despues-1200-1200.jpg",
+        "webp": "galeria/panel-termico-formular-despues-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QAJhAAAQMFAAEDBQEAAAAAAAAAAgEDBAAFBhESITFBgSIyM1Fhcf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFBgf/xAAhEQACAgEDBQEAAAAAAAAAAAABAgADEQQFEhMUQVKRU//aAAwDAQACEQMRAD8AURx6bMd1HjmSL7qniorYXIso2ZCadD1SuoDkMaNdIsYFDgy3ofVfisK/C7cb+6caK6QqaJ0Q62lI028vZcA6hUMNbt6qhKnLRZC3Lz4SinxvHJPCeAH+UVf7nTfoPsmdO71PyJOBYVc2sghTJr3QtOKRIR9LqnHPbLfrjcwds0jhgA1z1r6v3WhhP3D80yt/kc/2ud6yw1XhgPE1dSckwZTxtJjNljN3QkKWI6NU96KvUVNY8iTEgYGJ/9k="
+  },
+  "panel-termico-formular-despues-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/panel-termico-formular-despues-400-400.jpg",
+        "webp": "galeria/panel-termico-formular-despues-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/panel-termico-formular-despues-400-800.jpg",
+        "webp": "galeria/panel-termico-formular-despues-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/panel-termico-formular-despues-400-1200.jpg",
+        "webp": "galeria/panel-termico-formular-despues-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QAJRAAAQMEAQQCAwAAAAAAAAAAAgEDBAAFBhESISIxMkFxFWGB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUGB//EACERAAICAQMFAQAAAAAAAAAAAAECAAMRBAUSExRBUpFT/9oADAMBAAIRAxEAPwBRHH5st3UeOZIvzrpUfgXIso2ZCadDyldRHII0W6RYwcEAy32+V/lYN+Fy4ZA8caK6SKaJyUddKRpt5ey4B1CoYa3b1VCVOWiwFv7U0lFPjeOSeCdAH9UVf7jT/oPsl8LvU/Ik4Hhd0byCDMmvKQsuKRIR8l1Tjntnv9wuYO2V/iwAa4oWu6tXC/ZftaYGvdz7rness6V4YDxNZUnJCDKeNpMas0Zu6khTBHRqnzRV5fNFTWPI5iQMDE//2Q=="
+  },
+  "panel-termico-formular-despues-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/panel-termico-formular-despues-800-400.jpg",
+        "webp": "galeria/panel-termico-formular-despues-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/panel-termico-formular-despues-800-800.jpg",
+        "webp": "galeria/panel-termico-formular-despues-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/panel-termico-formular-despues-800-1200.jpg",
+        "webp": "galeria/panel-termico-formular-despues-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGAgUH/8QAJBAAAQMFAAAHAQAAAAAAAAAAAgEDBAAFBhESISIxMkFRgWH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQMGB//EACERAAICAQQCAwAAAAAAAAAAAAECAAMRBAUSkRMUQVJT/9oADAMBAAIRAxEAPwCTHHp0xzUeORIvyqeFYrYXIso2ZCadD1SunjkMaNdIsYFDgy3ofVfytHfhduN/ecjxXVFTROiHW0qfTby9lwDqFQ9wa3b1VCVOWkyFu8qaSirxvHJPCeAD/KKf+zpv0HcWeO76nqRGBYTcmsghTJr/AELTikSEfS6qxz2y325XMHbNI4YANc9a833T+Ee4f2qZv3uVnmss8V4YD4lrqTkmDE8bSYxZYzd0JDliOjVPminqKWseRJhIGBif/9k="
   },
   "panel-termico-formular-despues.jpg": {
     "variants": [
@@ -85,19 +425,69 @@
         "width": 400,
         "jpeg": "galeria/panel-termico-formular-despues-400.jpg",
         "webp": "galeria/panel-termico-formular-despues-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/panel-termico-formular-despues-800.jpg",
-        "webp": "galeria/panel-termico-formular-despues-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/panel-termico-formular-despues-1200.jpg",
-        "webp": "galeria/panel-termico-formular-despues-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGAgUH/8QAJhAAAQMEAQMEAwAAAAAAAAAAAgEDBAAFBhESIjEyITNBgVFhcf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAwYH/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIAAxEEBRKRExRBUlP/2gAMAwEAAhEDEQA/AJMMenTHFSPHMkX5VPSsVsLkWUbEhNOh3SunjkMaNdIsYFDgZdh7r9Vo78LtxyB5yPFdUVNE5EOtpU+m3l7LgHUKh7g1u3qqEqctJlu3dKaSirxvG5PBPAf1RT/2dN+g7izx3fQ9SIwLCrk1kEKZMf5C04pEhHyXVWOe2W+3K5tu2aRwYANceWur80/hHkP3VMHuOf2s81lnivDAfEtdSckwYnjYzGbLGbuhIUsR0ap80U9RS1jyJMJAwMT/2Q=="
+  },
+  "pintura-fachada-whirlpool-antes-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-1200-400.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-1200-800.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-1200-1200.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAEBf/EACAQAAICAgIDAQEAAAAAAAAAAAECAwQAEQUhBhJBImH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESUf/aAAwDAQACEQMRAD8ATm8rjoSCF7MaSMOhvOHznmMUI/DGZydaU4M8lBy/JWkvNbQTevXXQzMZuYSMQWWicb2XU6ONtWDliBc8vnNhtFE/hywjt2bcdh1dQT8Pt8yxFnpNSP/Z"
+  },
+  "pintura-fachada-whirlpool-antes-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-400-400.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-400-800.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-400-1200.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAEBf/EACEQAAEDBAIDAQAAAAAAAAAAAAECAwQABREhBhIUIkFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAaEQACAgMAAAAAAAAAAAAAAAAAARESAiJR/9oADAMBAAIRAxEAPwBQPK24DgZXIbQtQ0M1w75zFlgeiy8snGE0MXJm8XOWicqU2HuuhjQrKX7whsMyi0veStJwaa6kGrEKZy9/yFdShA/DuqiGZMlNyFpcSCc6Pb5VSa9JjI//2Q=="
+  },
+  "pintura-fachada-whirlpool-antes-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-800-400.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-800-800.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/pintura-fachada-whirlpool-antes-800-1200.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-antes-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAEBf/EACIQAAEDBAICAwAAAAAAAAAAAAIBAwQABREhBhIUIzFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERJR/9oADAMBAAIRAxEAPwBPLljUB1GTktg4SfGa4d85iyynrJXnFXGBoZuUe73OUE45gI911rSVmV28A2jMkmjTOVMVwtNtWDliBM5e/wCQWCAE/F3VRJLky25BiYoq50vb6qpE49JqR//Z"
   },
   "pintura-fachada-whirlpool-antes.jpg": {
     "variants": [
@@ -105,19 +495,69 @@
         "width": 400,
         "jpeg": "galeria/pintura-fachada-whirlpool-antes-400.jpg",
         "webp": "galeria/pintura-fachada-whirlpool-antes-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/pintura-fachada-whirlpool-antes-800.jpg",
-        "webp": "galeria/pintura-fachada-whirlpool-antes-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/pintura-fachada-whirlpool-antes-1200.jpg",
-        "webp": "galeria/pintura-fachada-whirlpool-antes-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAEBf/EACEQAAEEAgICAwAAAAAAAAAAAAIBAwQRAAUGIRJBFCMx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECElH/2gAMAwEAAhEDEQA/AE4uWNQHUZOS2DhJ+XnE3nMWmU+sleNVqhwZ2Ufb7KUE4pgI949ddJmZXdwDaMSSacS7UxWlxtwwcyIEzl7/AMgqIAr0veWEcuTLbkGJiirfS+XrLEdOkqx//9k="
+  },
+  "pintura-fachada-whirlpool-despues-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-1200-400.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-1200-800.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-1200-1200.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwb/xAAlEAABAwQBAgcAAAAAAAAAAAABAgMEAAUGERIhcRMUIzFBUmH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB0RAAIBBAMAAAAAAAAAAAAAAAABAgMEFFEFMlL/2gAMAwEAAhEDEQA/AMffDCjLZjB5CJDu/T+vem7BgKLxGekOXNhtDQ5LbR1XrtSbeLxLo4J6Zshe/YqGiKtZxx+IHxBu8hpbqeJOqtqci30JIWXokYtbYpU3Ie5q3sEnR18dKKfFtkrQjzPgvuhISXFA7V+mijzntiYsdH//2Q=="
+  },
+  "pintura-fachada-whirlpool-despues-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-400-400.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-400-800.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-400-1200.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBv/EACIQAAEDBAICAwAAAAAAAAAAAAECAwQABQYREiFBcSMyYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHhEAAQMEAwAAAAAAAAAAAAAAAAECFAMEBVERIlL/2gAMAwEAAhEDEQA/AOQvYhxlMxw8hD7u/j8j3VVhwA3iM9JcuLDbbQ5LQjtYHqoxi0e6OpuAnPr39Sodito+Oy4aZAgXh5tbqeJJFW1MjynQjZZegnFLdG23Jf5q3sHeuvHVKvFtlOIQZSWX3QkAuHYKv2lHOdtRIrdH/9k="
+  },
+  "pintura-fachada-whirlpool-despues-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-800-400.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-800-800.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/pintura-fachada-whirlpool-despues-800-1200.jpg",
+        "webp": "galeria/pintura-fachada-whirlpool-despues-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwb/xAAlEAABAwMDAwUAAAAAAAAAAAACAQMEAAURBhIUITFxEyNBUmH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAdEQABAwUBAAAAAAAAAAAAAAAAAQIUAwQFMlFS/9oADAMBAAIRAxEAPwDIXzhRiZjo8ASHc+39fNN2DQI3iM9IcuTDYNJuNsOp48UmGl4l1dG4DNfPPZSTCpVrGnJEQX0gXd9o3R2quKbUyKroEZZeiSaVtsVSbkPbyzlFVcLj46UU8ltlGAcn0X3UFBVwu5fq0VnOd1S4reH/2Q=="
   },
   "pintura-fachada-whirlpool-despues.jpg": {
     "variants": [
@@ -125,19 +565,69 @@
         "width": 400,
         "jpeg": "galeria/pintura-fachada-whirlpool-despues-400.jpg",
         "webp": "galeria/pintura-fachada-whirlpool-despues-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/pintura-fachada-whirlpool-despues-800.jpg",
-        "webp": "galeria/pintura-fachada-whirlpool-despues-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/pintura-fachada-whirlpool-despues-1200.jpg",
-        "webp": "galeria/pintura-fachada-whirlpool-despues-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwb/xAAjEAABBAIBBAMBAAAAAAAAAAACAQMEEQAFBhIUIXEjMUFS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAQQDAAAAAAAAAAAAAAAAAQIDBBRRBTJS/9oADAMBAAIRAxEAPwDIbzsoxMx0eAJDt/H/AD7xvQcBHcRnpDmyYbBpFI2w8nXrEw4vE2jo7AZr539KSeUy1jjkiIj6QNu+0To9KrWW1ORb6EkLL0SHiuti23If6yu0VVpa/LTDHk1kkwDuUYkOoKCrhXZe8MPOe2Jix0f/2Q=="
+  },
+  "remodelacion-tablaroca-mueble-cocina-antes-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200-400.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200-800.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200-1200.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAkEAABBAICAQQDAAAAAAAAAAABAAIDBAURBhIhEzEzQTVxc//EABgBAAIDAAAAAAAAAAAAAAAAAAACAQME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AHObphna5FK9jmnZGlixxGRPZoOj96901wrmux9z1Z+7GztAdINgAqM5lyG9VwWZdTljjkpWRFHJG3W2lZpVSx8cLEUGgaKEk4LdlyHGalm9OX2HglxKEsAZ5yCOri7UNF7xFNI0kHyRpQdSMXK+Yp2md2yWA87+9BdFv/j5v0oXH/Jc/olWmswfXXRphrlHH4+Os1oa2PwAhT9j5ShRQh//2Q=="
+  },
+  "remodelacion-tablaroca-mueble-cocina-antes-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400-400.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400-800.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400-1200.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAkEAABBAICAgEFAAAAAAAAAAABAgMEBQAREiEGMxMxNUFRcv/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAjH/2gAMAwEAAhEDEQA/AHV3D4Fcxp1aCk9jWYq4ixPJI6/evrjWlUF18z5n+aEPJAU4NgA5G+Y+QzYlFcqhLbbchSQ02ttOtpOcsqppxwsBXgDRwxJ4NOdsPGYkme/zkLBKicMUAZ3jDcSrlMwVrDTziT32RrIOK2mbHuIcpHNLkgLO/wA6GdEsft72Qtd7Zv8AeSm1mF6VdGtLMg11e3FSkJS30Bhk9J9xwxUIf//Z"
+  },
+  "remodelacion-tablaroca-mueble-cocina-antes-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800-400.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800-800.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800-1200.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAjEAABBAICAgIDAAAAAAAAAAABAAIDBAURBhIhQTIzNXFy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8Ad5umGdrkUj2OadkaWLHEZE9mg6PvSa4VzTj7hln7MbO0B0g3oFRnMuQ3q2CzLqcscclK0Io5GN1tpWaVUsfHCxFBo8FCR8Fuy3+M1LN6cvsPBLnFCWANM5BHWxdqGi94imkaSD5I0oKpGLlfMU7TO7ZLAed+9BdFv/j5v0oXH/O5/aVNrMH110a4a7Sx+PjrNaGNj8AIU9Y+0oUUIf/Z"
   },
   "remodelacion-tablaroca-mueble-cocina-antes.jpg": {
     "variants": [
@@ -145,19 +635,69 @@
         "width": 400,
         "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400.jpg",
         "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800.jpg",
-        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200.jpg",
-        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-antes-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAlEAABBAICAQMFAAAAAAAAAAABAAIDBAURBhIhFDNBFTE1cXL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwB3m6YZ2uRSPY5p2RpYscfqJ7NB0fnX3TXCua7H3DLP2Y2ZoDpBvQKjOZchvVsDmXU5WRvpWRHHJG3W2lcsqpo+OFj6ADwhIuDXpb/Galm/OX2HglxKEoA0zkEdXF2oaL3iKZ7SQfJGlB1IxcgzFO0zu2SwHHfzoLot78fN+lDY/wBy5/alaazC9KujPDXaOPoR1mtDWx+AEKfse6UJUIf/2Q=="
+  },
+  "remodelacion-tablaroca-mueble-cocina-despues-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200-400.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200-800.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200-1200.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcB/8QAKhAAAQMDAwIEBwAAAAAAAAAAAQIDBAAFEQYSIRMxFDVRsSI0YXFygsH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHxEAAwABAwUAAAAAAAAAAAAAAAECEQMEIRMxQVFh/9oADAMBAAIRAxEAPwBlD8hqOnrSkkEc7ecH0pGQz1rurvy4amO3Rl16euE4W0lKVp5yM/SuJJixJE4kBbYC8n1qGNvim15Ka18yl6LKQIcdwtuvtoWO4UcGisQ1fdXJ97dkeIUrekcg4opy0uO5jq/DZ9XabbtrXWhJ6KF7RsHOBmoN+Ql3TsyLvwt1ITx37U6688n/AGT70hT/AJhf2/lGKwgVOTJ37SyhwoVKbTs+HBPNFV158yf/ACPvRTUuBbZ//9k="
+  },
+  "remodelacion-tablaroca-mueble-cocina-despues-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400-400.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400-800.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400-1200.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcB/8QAJxAAAQMDAwMEAwAAAAAAAAAAAQIDBAAFEQYSIRMxchQiNVE0YcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAwACAQUAAAAAAAAAAAAAAAECAxFBBBMhMWH/2gAMAwEAAhEDEQA/AGYSJLUdPWlJwRzt5wfqkVDXWvCu+C4amu3Rp16eqE5sSUpWkZyM/quIJixZE4kBbYC8n7qGOn1Ta5Kaz7lJ8Fk+iHHcLbr7aFjuFHBorEdX3Vyfe3ZHqFK3pHIOKKcsXj2Y7vw2XVum27a31oSek2vaNnfAzUK/IS7pyZF34W6kJ4PNOuvfiB5JpCuH5C/H+UYrSBU7MnftLSHCgymk7fbhR5oqtu3yL/kaKakLP//Z"
+  },
+  "remodelacion-tablaroca-mueble-cocina-despues-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800-400.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800-800.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800-1200.jpg",
+        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcB/8QAKhAAAQMDAwIEBwAAAAAAAAAAAQIDBAAFEQYSIRMxFCI1UTRhcXKCscH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMhBBNRQf/aAAwDAQACEQMRAD8AZg/IaYT1pSSCOdvOD7UjNs9a7q74LhqY7dGXXp64Sy2kpStPORn5VxJMSJInEgLbAXk+9RQ49SbX0plnuKXhZyBCjuFt59tCx3BODRWIavui7he3JHiFK3pHINFNWLRjtfhs+rtNt25rrQk9FCykbBzgZqDfkJd07MibsLdSE8d6ddeej/kn90gzviF/T+UYSpAlGzJ5FqZQ4UKltJ2eXCjzRVfefUn/ALjRTUtC7P/Z"
   },
   "remodelacion-tablaroca-mueble-cocina-despues.jpg": {
     "variants": [
@@ -165,19 +705,69 @@
         "width": 400,
         "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400.jpg",
         "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800.jpg",
-        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200.jpg",
-        "webp": "galeria/remodelacion-tablaroca-mueble-cocina-despues-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAcF/8QAKRAAAQMDAwIFBQAAAAAAAAAAAQIDBAAFEQYSIRMxFCI0NVFhcXKCwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIDESFRBBNB/9oADAMBAAIRAxEAPwBmD8hphPWlJII5284PxSM2z1rurvguGrjt1ZdenrhLLaSlK085GfpUJJixJE4kBbYC8n5qGPH1Ta+lNZ25S6OlIEOO4W3X20LHcKODRWIauui7he3ZPiFK3gcg4opqxcAe19G0au023bmuvCSGUL2jYOcDNUb8hD2nJkTfhbqQnjv2p1157P8AsmkGd6hf2/lFFaRlTsyd+0sodKFS207fLhR5oqhefcn/AMjRTEuBez//2Q=="
+  },
+  "tuberia-conduit-sistema-alumbrado-taller-soldadura-1200.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200-400.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200-800.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200-1200.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGB//EACUQAAEDAwMEAwEAAAAAAAAAAAECAwQABQYREiETMTVBIlFycf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAD/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIREgMxQf/aAAwDAQACEQMRAD8AyMRyIyG0tSAovJ1cbPHTV9UiXoJcjszpAbY3krUOdAKs73isaVkLjsUbEIUPhu03ClyC0222lXXitlCGwrRCtSSe2tSprsorwqV4wLo65KZdX0VKIb/Pqitpj0BK7U0sPlAVyE/VFA+SVhKMR2EWU3IKmTVrDO3RsK9mr/JMYgT4UdvakvJG1axxuqVjXgoX4qa93T/abbEJHF7vIu9onuQ4zmrTfCaK0OVeZeoots2Ef//Z"
+  },
+  "tuberia-conduit-sistema-alumbrado-taller-soldadura-400.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400-400.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400-800.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400-1200.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYBB//EACgQAAEDBAECBQUAAAAAAAAAAAIBAwQABQYREhMhFTE1QVEiYXFygf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgEFAAAAAAAAAAAAAAAAAQIRAxITMUFR/9oADAMBAAIRAxEAPwDJw3IjKNi1IQleFVNteytl8VEXYJOR2Z0hGmOWzJO+kSmV7xWNKyFx2KnEAJPo5a5JUr/aLbbVLrxQUAbQtAW1VV8t1KmuSiuhQ5jHijrkpl4+iRKjf3H2ora49AQ7W0aPqCF3QfiigeSVhKMTuEWUrmhzJhmjKDpvl7rT/JMYgT4cdviKvCnEzRdcqtYt6DD/AEq+95j+abbEJHi93lXe0T3IUdzbTfYaKfZZ629/KKLcfhmhH//Z"
+  },
+  "tuberia-conduit-sistema-alumbrado-taller-soldadura-800.jpg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800-400.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800-800.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800-1200.jpg",
+        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBB//EACYQAAEDBAEDBAMAAAAAAAAAAAECAwQABQYREhMhUTE1cXIiMkH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAGxEBAQADAAMAAAAAAAAAAAAAAQACERIDMUH/2gAMAwEAAhEDEQA/AFOI7DZDaWpAKnk7cbPbpq8VEPQS5HZnSA2xz2tQ7kAVqXvFosvIXHow4IQofgVaChXcgtVttpV1orZQhsK02rZJPpupRPdRr5ZC8YTdXHJTLq+ipR6f1/lFOmPQErtbSw8UBXcJ8UUD5MtxGONLCLIbklUyatYZ1psK9SfNMGSYzb58OO3xSXkjitY7cqt437JD+lXHf2T801WQF4vd5F3tE92HGc2032TRTDlXvL3wKKLts4L/2Q=="
   },
   "tuberia-conduit-sistema-alumbrado-taller-soldadura.jpg": {
     "variants": [
@@ -185,18 +775,48 @@
         "width": 400,
         "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400.jpg",
         "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-400.webp"
-      },
-      {
-        "width": 800,
-        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800.jpg",
-        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-800.webp"
-      },
-      {
-        "width": 1200,
-        "jpeg": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200.jpg",
-        "webp": "galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura-1200.webp"
       }
     ],
     "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBB//EACYQAAEDBAIABgMAAAAAAAAAAAIBAwQABQYREiETNUFRcXIiMTL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSEzFB/9oADAMBAAIRAxEAPwBTiOw2UbFqQik6O3G164F7VFHoKuR2Z0hG46HsyTtURK1L3i0WVkLj0VOIASfgpa5JXcgtVttql40ZsgBtC4gW1VV/W6lTXZRXhkHjA3VxyUy6aMkS+H9fSinTHoCHa2jR5QQu0H2ooHklYSjElhFkW5CUyaRozrTaF6rTBkmM2+fDjt8RV4U4kadcqt435HD+lXHf6H5ptiEjxe8P3e0XB2HGc2y30PVFMOVedPfCUUXIzNEf/9k="
+  },
+  "tunel_antes.jpeg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/tunel_antes-400.jpg",
+        "webp": "galeria/tunel_antes-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/tunel_antes-800.jpg",
+        "webp": "galeria/tunel_antes-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/tunel_antes-1200.jpg",
+        "webp": "galeria/tunel_antes-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAQFBgP/xAAiEAACAgIBBAMBAAAAAAAAAAABAgMEABEFEhMhMQYiQXH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAIFBv/EAB4RAAIBBAMBAAAAAAAAAAAAAAECAAMRElEEEzEh/9oADAMBAAIRAxEAPwCFyfxq5XqyXFhZYoh5BPgDKeOaKOI2Ax6fA2DojeXKchylninjcv2pvoQf0ZUT8XY7SwrEzqWB3/MUipUuxAuYR6fVZV8EiWpbCTsohmcD0wX3jN5VswJXRZSocDRBGMA3wkQx5BB8mkWjWG1EK6HrOgpVwAREu8YzPDtudMUXUNxlJz1NXjJP7rGMZM23K4Lqf//Z"
+  },
+  "tunel_despues.jpeg": {
+    "variants": [
+      {
+        "width": 400,
+        "jpeg": "galeria/tunel_despues-400.jpg",
+        "webp": "galeria/tunel_despues-400.webp"
+      },
+      {
+        "width": 800,
+        "jpeg": "galeria/tunel_despues-800.jpg",
+        "webp": "galeria/tunel_despues-800.webp"
+      },
+      {
+        "width": 1200,
+        "jpeg": "galeria/tunel_despues-1200.jpg",
+        "webp": "galeria/tunel_despues-1200.webp"
+      }
+    ],
+    "placeholder": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBv/EACEQAAEEAgIDAQEAAAAAAAAAAAEAAgMEERIFIQYTUTJh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIx/9oADAMBAAIRAxEAPwBJ45K+f1i9E2v+nOJ6aFpf4xXMBsUr0NzXp+pU700TK88L3APsM0A+KfBOj4yGaKWZpbKABgYxhNqLUAlVSrOIm1GDCwfAUVmu2GWnpFZZQlOBt25puXm9jydXaj+BapZXuZ24oiz66yi4ita/YZFqH9AoiJk3AQ//2Q=="
   }
 }

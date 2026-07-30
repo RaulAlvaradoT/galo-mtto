@@ -22,7 +22,7 @@ const yearEl = document.getElementById('year');
 if (yearEl) yearEl.textContent = String(new Date().getFullYear());
 
 // Render galería si hay datos
-(function renderGaleria(){
+(async function renderGaleria(){
   const grid = document.getElementById('galeria-grid');
   const fotos = (window.GALERIA_IMAGENES || []);
   const videos = (window.VIDEOS || []);
@@ -74,9 +74,10 @@ if (yearEl) yearEl.textContent = String(new Date().getFullYear());
       img.style.opacity = '0';
       picture.appendChild(img);
     } else {
-      const webpPath = it.src_webp || it.src.replace(/\.[^/.]+$/, '.webp');
-      webpSource.srcset = encodeURI(webpPath);
-      picture.appendChild(webpSource);
+      if (it.src_webp) {
+        webpSource.srcset = encodeURI(it.src_webp);
+        picture.appendChild(webpSource);
+      }
       img.src = encodeURI(it.src);
       picture.appendChild(img);
     }
@@ -115,8 +116,15 @@ if (yearEl) yearEl.textContent = String(new Date().getFullYear());
 })();
 
 // Render Antes/Después
-(function renderAntesDespues(){
+(async function renderAntesDespues(){
   const grid = document.getElementById('comparisons-grid');
+  let manifest = null;
+  try {
+    const res = await fetch('galeria/manifest.json');
+    if (res.ok) manifest = await res.json();
+  } catch (e) {
+    manifest = null;
+  }
   const items = (window.ANTES_DESPUES || []);
   if (!grid || !Array.isArray(items) || items.length === 0) return;
 
@@ -138,7 +146,17 @@ if (yearEl) yearEl.textContent = String(new Date().getFullYear());
     const afterPicture = document.createElement('picture');
     const afterWebp = document.createElement('source');
     afterWebp.type = 'image/webp';
-    afterWebp.srcset = encodeURI(it.despues_webp || it.despues.replace(/\.[^/.]+$/, '.webp'));
+    // prefer manifest variants if available
+    try {
+      const despuesKey = it.despues.split('/').pop();
+      if (manifest && manifest[despuesKey]) {
+        afterWebp.srcset = manifest[despuesKey].variants.map(v=>`${encodeURI(v.webp)} ${v.width}w`).join(', ');
+      } else if (it.despues_webp) {
+        afterWebp.srcset = encodeURI(it.despues_webp);
+      }
+    } catch (e) {
+      if (it.despues_webp) afterWebp.srcset = encodeURI(it.despues_webp);
+    }
     afterPicture.appendChild(afterWebp);
     imgAfterBase.src = encodeURI(it.despues); imgAfterBase.loading = 'lazy'; imgAfterBase.alt = `Después — ${it.titulo || 'Proyecto'} — GALO`;
     afterPicture.appendChild(imgAfterBase);
@@ -150,7 +168,16 @@ if (yearEl) yearEl.textContent = String(new Date().getFullYear());
     const beforePicture = document.createElement('picture');
     const beforeWebp = document.createElement('source');
     beforeWebp.type = 'image/webp';
-    beforeWebp.srcset = encodeURI(it.antes_webp || it.antes.replace(/\.[^/.]+$/, '.webp'));
+    try {
+      const antesKey = it.antes.split('/').pop();
+      if (manifest && manifest[antesKey]) {
+        beforeWebp.srcset = manifest[antesKey].variants.map(v=>`${encodeURI(v.webp)} ${v.width}w`).join(', ');
+      } else if (it.antes_webp) {
+        beforeWebp.srcset = encodeURI(it.antes_webp);
+      }
+    } catch (e) {
+      if (it.antes_webp) beforeWebp.srcset = encodeURI(it.antes_webp);
+    }
     beforePicture.appendChild(beforeWebp);
     imgBeforeOverlay.src = encodeURI(it.antes); imgBeforeOverlay.loading = 'lazy'; imgBeforeOverlay.alt = `Antes — ${it.titulo || 'Proyecto'} — GALO`;
     beforePicture.appendChild(imgBeforeOverlay);
@@ -167,7 +194,7 @@ if (yearEl) yearEl.textContent = String(new Date().getFullYear());
     const labelBefore = document.createElement('div'); labelBefore.className = 'label'; labelBefore.textContent = 'Antes';
     const labelAfter = document.createElement('div'); labelAfter.className = 'label right'; labelAfter.textContent = 'Después';
 
-  wrapper.appendChild(imgAfterBase);
+  wrapper.appendChild(afterPicture);
   wrapper.appendChild(overlay);
     wrapper.appendChild(handle);
     wrapper.appendChild(labelBefore);
