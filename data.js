@@ -6,7 +6,8 @@
 window.GALERIA_IMAGENES = [
   { 
     titulo: 'Alumbrado y tubería conduit',
-    src: 'galeria/Tubería conduit y sistema de alumbrado para taller de soldadura.jpg'
+    src: 'galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura.jpg',
+    src_webp: 'galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura.webp'
   },
 ];
 
@@ -14,23 +15,31 @@ window.GALERIA_IMAGENES = [
 window.ANTES_DESPUES = [
   {
     titulo: 'Fachada a jardín',
-    antes: 'galeria/Fachada a jardin ANTES.jpg',
-    despues: 'galeria/Fachada a jardin DESPUES.jpg'
+    antes: 'galeria/fachada-jardin-antes.jpg',
+    antes_webp: 'galeria/fachada-jardin-antes.webp',
+    despues: 'galeria/fachada-jardin-despues.jpg',
+    despues_webp: 'galeria/fachada-jardin-despues.webp'
   },
   {
     titulo: 'Panel térmico Formular',
-    antes: 'galeria/Panel termico formular ANTES.jpg',
-    despues: 'galeria/Panel termico formular DESPUES.jpg'
+    antes: 'galeria/panel-termico-formular-antes.jpg',
+    antes_webp: 'galeria/panel-termico-formular-antes.webp',
+    despues: 'galeria/panel-termico-formular-despues.jpg',
+    despues_webp: 'galeria/panel-termico-formular-despues.webp'
   },
   {
     titulo: 'Remodelación tablaroca en cocina',
-    antes: 'galeria/Remodelacion tablaroca a mueble de cocina ANTES.jpg',
-    despues: 'galeria/Remodelacion tablaroca a mueble de cocina DESPUES.jpg'
+    antes: 'galeria/remodelacion-tablaroca-mueble-cocina-antes.jpg',
+    antes_webp: 'galeria/remodelacion-tablaroca-mueble-cocina-antes.webp',
+    despues: 'galeria/remodelacion-tablaroca-mueble-cocina-despues.jpg',
+    despues_webp: 'galeria/remodelacion-tablaroca-mueble-cocina-despues.webp'
   },
   {
     titulo: 'Pintura en fachada Whirlpool',
-    antes: 'galeria/Pintura en fachada Whirlpool ANTES.jpg',
-    despues: 'galeria/Pintura en fachada Whirlpool DESPUES.jpg'
+    antes: 'galeria/pintura-fachada-whirlpool-antes.jpg',
+    antes_webp: 'galeria/pintura-fachada-whirlpool-antes.webp',
+    despues: 'galeria/pintura-fachada-whirlpool-despues.jpg',
+    despues_webp: 'galeria/pintura-fachada-whirlpool-despues.webp'
   }
 ];
 
@@ -38,6 +47,6 @@ window.ANTES_DESPUES = [
 window.VIDEOS = [
   {
     titulo: 'Lambrín en palapa y exteriores (residencia)',
-    src: 'galeria/Lambrin en palapa y exteriores en residencia.mp4'
+    src: 'galeria/lambrin-palapa-exteriores-residencia.mp4'
   }
 ];
