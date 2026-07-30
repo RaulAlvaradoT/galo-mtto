@@ -7,7 +7,16 @@ window.GALERIA_IMAGENES = [
     src: 'galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura.jpg',
     src_webp: 'galeria/tuberia-conduit-sistema-alumbrado-taller-soldadura.webp',
     desc: 'Instalación de luminarias y canalización en taller de soldadura.'
-  }
+  },
+  {
+      titulo: 'Instalación de tubería neumática INFINITY',
+      src: 'galeria/tuberia-neumatica-infinity.jpg',
+      src_webp: 'galeria/tuberia-neumatica-infinity.webp',
+      desc: 'Instalación de tubería neumática en instalación industrial.'
+    },
+
+
+
 ];
 
 window.ANTES_DESPUES = [

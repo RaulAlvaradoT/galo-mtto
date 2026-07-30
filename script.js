@@ -70,7 +70,11 @@ if (yearEl) yearEl.textContent = String(new Date().getFullYear());
       // placeholder
       mediaWrap.style.backgroundImage = `url('${entry.placeholder}')`;
       mediaWrap.classList.add('loading');
-      img.addEventListener('load', () => { mediaWrap.classList.remove('loading'); img.style.opacity = '1'; });
+      img.addEventListener('load', () => {
+        mediaWrap.classList.remove('loading');
+        mediaWrap.style.backgroundImage = 'none';
+        img.style.opacity = '1';
+      });
       img.style.opacity = '0';
       picture.appendChild(img);
     } else {
@@ -191,14 +195,19 @@ if (yearEl) yearEl.textContent = String(new Date().getFullYear());
     handle.setAttribute('aria-valuemax', '100');
     handle.setAttribute('aria-valuenow', '50');
 
-    const labelBefore = document.createElement('div'); labelBefore.className = 'label'; labelBefore.textContent = 'Antes';
-    const labelAfter = document.createElement('div'); labelAfter.className = 'label right'; labelAfter.textContent = 'Después';
+    const labelBefore = document.createElement('div');
+    labelBefore.className = 'label before';
+    labelBefore.textContent = 'Antes';
+    const labelAfter = document.createElement('div');
+    labelAfter.className = 'label after';
+    labelAfter.textContent = 'Después';
 
-  wrapper.appendChild(afterPicture);
-  wrapper.appendChild(overlay);
+    overlay.appendChild(beforePicture);
+    overlay.appendChild(labelBefore);
+    wrapper.appendChild(afterPicture);
+    wrapper.appendChild(overlay);
     wrapper.appendChild(handle);
-    wrapper.appendChild(labelBefore);
-    wrapper.appendChild(labelAfter);
+    afterPicture.appendChild(labelAfter);
 
     // Drag logic
     let isDown = false;
